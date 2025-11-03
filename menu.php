@@ -3,4 +3,5 @@
     echo "Product";
     echo "About us";
     echo "Map";
+    echo "contact";
 ?>
